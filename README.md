@@ -16,6 +16,7 @@ A collection of URLs and code snippets for Raspberry Pi programming
 - Information about the DHT22 Temperature and Humidity Sensor
   - [Raspberry PI and DHT22 Temperature and Humidity Logger](http://www.instructables.com/id/Raspberry-PI-and-DHT22-temperature-and-humidity-lo/)
   - [DHT Humidity Sensing on Raspberry Pi](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/software-install-updated)
+  - [Information on possible WiFi interference with PIR sensor](https://www.raspberrypi.org/forums/viewtopic.php?t=155270)
   
 
 ## Interesting Projects
