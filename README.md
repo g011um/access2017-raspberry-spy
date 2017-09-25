@@ -8,6 +8,7 @@ A collection of URLs and code snippets for Raspberry Pi programming
   - [LEDs and Buttons](https://www.raspberrypi.org/learning/physical-computing-with-python/worksheet/)
   - [Buzzer](https://www.raspberrypi.org/learning/physical-computing-with-python/buzzer/)
   - [Passive infrared (PIR) motion sensor](https://www.raspberrypi.org/learning/physical-computing-with-python/pir/)
+- [Getting Started with PiCamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
   
   
 ## Additional Informational/Programming Links
