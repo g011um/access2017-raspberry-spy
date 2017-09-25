@@ -13,6 +13,7 @@ A collection of URLs and code snippets for Raspberry Pi programming
 ## Additional Informational/Programming Links
 - [Raspberry Pi B+ GPIO Header Details And Pinout](https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/)
 - [`gpiozero` API](https://gpiozero.readthedocs.io/en/stable/)
+- [PiCamera API](https://picamera.readthedocs.io/)
 - Information about the DHT22 Temperature and Humidity Sensor
   - [Raspberry PI and DHT22 Temperature and Humidity Logger](http://www.instructables.com/id/Raspberry-PI-and-DHT22-temperature-and-humidity-lo/)
   - [DHT Humidity Sensing on Raspberry Pi](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/software-install-updated)
