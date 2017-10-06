@@ -1,7 +1,18 @@
-# access2017-raspberry-spy
+# Access 2017 - Raspberry SPi
+
+## Hackathon Results
+
+- Group 1: A Twitter bot that uses the Pi camera to capture and post images
+- Group 2: An alert system that uses the AM2302 temperature/humidity sensor
+- Group 3: A gate counter using OpenCV and the Pi camera
+
+Also included are some simple code examples showing how to use the PIR sensor to detect movement; the camera to preview and capture images; and a script that uses the PIR sensor to update Slack when you leave or return to your desk.
+
+## Resources
+
 A collection of URLs and code snippets for Raspberry Pi programming
 
-## Official Raspberry Pi Resource
+### Official Raspberry Pi Resource
 
 - [RaspberryPi.org](https://www.raspberrypi.org/)
 - [Physical Computing with Python](https://projects.raspberrypi.org/en/projects/physical-computing/) -- basic information about the GPIO header, LEDs, buttons, switches etc
@@ -11,7 +22,8 @@ A collection of URLs and code snippets for Raspberry Pi programming
 - [Getting Started with PiCamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
   
   
-## Additional Informational/Programming Links
+### Additional Informational/Programming Links
+
 - [Raspberry Pi B+ GPIO Header Details And Pinout](https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/)
 - [`gpiozero` API](https://gpiozero.readthedocs.io/en/stable/)
 - [PiCamera API](https://picamera.readthedocs.io/)
@@ -21,7 +33,7 @@ A collection of URLs and code snippets for Raspberry Pi programming
 - [Information on possible WiFi interference with PIR sensor](https://www.raspberrypi.org/forums/viewtopic.php?t=155270)
   
 
-## Interesting Projects
+### Interesting Projects
 
 - Kiosk Functionality
   - [Auto open browser on boot](https://www.raspberrypi.org/forums/viewtopic.php?t=8298)
